@@ -1,38 +1,102 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    height: 40vmin;
+    pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
+    text-decoration: underline;
+    cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-link:hover {
+    color: orangered;
+}
+
+input:invalid {
+    border: 2px solid #ff4f4f;
+}
+
+.flex-full0 {
+    display: flex;
+    justify-content: center;
+    align-items: center,
+}
+
+.gradient-color {
+    background: #ED4264;
+    background: -webkit-linear-gradient(to bottom, #282c34, #ed4242);
+    background: linear-gradient(to bottom, #282c34, #ed4242);
+}
+
+.App-height-full {
+    height: 100vh;
+}
+
+.font-header0 {
+    flex: 1;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.font-header1 {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.font-card-small {
+    font-size: 14px;
+}
+
+.font-card-mute {
+    color: grey;
+    font-size: 12px;
+}
+
+.center-hor-ver {
+    justify-content: center;
+    align-items: center;
+}
+
+.img-border-r-50 {
+    border-radius: 50%;
+}
+
+.border-r-4 {
+    border-radius: 4px
+}
+
+.font-purchase {
+    font-size: 18px;
+    color: rgb(20, 148, 20);
+    font-weight: bold;
+}
+
+.font-error {
+    font-size: 14px;
+    color: rgb(195, 27, 27);
+    font-weight: 400;
 }

@@ -1,0 +1,356 @@
+{
+    "productos": [{
+            "id_descuento": "297706",
+            "titulo": "Freidora Fry Delight Tefal FX100015",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/297706/d7f7c276614d38e32b7730d67c6ff4a164c38811.XL2.jpg",
+            "valor_oferta": "$73.090",
+            "valor_oferta_plano": 73090,
+            "calificaciones": 8.3
+        },
+        {
+            "id_descuento": "300447",
+            "titulo": "Organizador de Relojes12 Unidades ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/300447/2305783a4cf432d1489fc8bf17b96c39373488fb.XL2.jpg",
+            "valor_oferta": "$10.990",
+            "valor_oferta_plano": 10990,
+            "calificaciones": 8.56
+        },
+        {
+            "id_descuento": "299377",
+            "titulo": "Pantufla de Semilla para Microondas - Color a elección",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/299377/2548767f715bd8b1328b2c3a222013958b8b95ad.XL2.jpg",
+            "valor_oferta": "$2.990",
+            "valor_oferta_plano": 2990,
+            "calificaciones": 7.26
+        },
+        {
+            "id_descuento": "300334",
+            "titulo": "¡Se un Chef! Batidora Powermixer Sindelen ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/300334/154bfbfcb26b7c973f9763748f5351199c10b6c1.XL2.jpg",
+            "valor_oferta": "$27.990",
+            "valor_oferta_plano": 27990,
+            "calificaciones": 7.02
+        },
+        {
+            "id_descuento": "300431",
+            "titulo": "iPhone 8 de 64GB, color a elección",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/300431/02fddebccf8b6afac1ac78627eafaa2017d76ff6.XL2.jpg",
+            "valor_oferta": "$227.990",
+            "valor_oferta_plano": 227990,
+            "calificaciones": 7.35
+        },
+        {
+            "id_descuento": "298151",
+            "titulo": "Frazada Cuadrille Chantilly",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/298151/74ea137ab306bfa56106b8563409b6c6e921e2a3.XL2.jpg",
+            "valor_oferta": "$5.990",
+            "valor_oferta_plano": 5990,
+            "calificaciones": null
+        },
+        {
+            "id_descuento": "291791",
+            "titulo": "Mesa Ajustable y Plegable con Posa Vasos",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/291791/10c5c13939fc86bafa8ec2608c6c38db197ef319.XL2.jpg",
+            "valor_oferta": "$12.990",
+            "valor_oferta_plano": 12990,
+            "calificaciones": 6.96
+        },
+        {
+            "id_descuento": "298905",
+            "titulo": "Olla a Presión Robot Eléctrica Programable Tefal CY505E30",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/298905/cd9887674797dc85852fe9ae6bf1c96ec3634875.XL2.jpg",
+            "valor_oferta": "$68.990",
+            "valor_oferta_plano": 68990,
+            "calificaciones": 7.99
+        },
+        {
+            "id_descuento": "293056",
+            "titulo": "Pack 18 Emuwipes® Premium 80 Hojas",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/293056/93cbb4222e3c64bba77c888638723c2d134ff32b.XL2.jpg",
+            "valor_oferta": "$18.990",
+            "valor_oferta_plano": 18990,
+            "calificaciones": 8.61
+        },
+        {
+            "id_descuento": "296293",
+            "titulo": "Pack de 36 Preservativos Durex a Elección",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296293/f93da967ed9a66c8151d07a382ca4bd8c1d62120.XL2.jpg",
+            "valor_oferta": "$14.090",
+            "valor_oferta_plano": 14090,
+            "calificaciones": 8.45
+        },
+        {
+            "id_descuento": "300444",
+            "titulo": "Seca platos y accesorios ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/300444/58210a530580b5a2c81c6b92a222cce2f2530a27.XL2.jpg",
+            "valor_oferta": "$7.990",
+            "valor_oferta_plano": 7990,
+            "calificaciones": 7.02
+        },
+        {
+            "id_descuento": "297708",
+            "titulo": "Pack 2 Almohadas Premium Valencia ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/297708/96c22ea40dbefa37f61c2a43d1a23fa15751173d.XL2.jpg",
+            "valor_oferta": "$7.190",
+            "valor_oferta_plano": 7190,
+            "calificaciones": 7.87
+        },
+        {
+            "id_descuento": "300448",
+            "titulo": "Pizarra Acrílica Magnética 60 x 90 cm Blanca",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/300448/48b8ace7cfe83538ddc6635ab674e5a0e28fde8b.XL2.jpg",
+            "valor_oferta": "$10.990",
+            "valor_oferta_plano": 10990,
+            "calificaciones": 7.67
+        },
+        {
+            "id_descuento": "294156",
+            "titulo": "¡Oxígeno Personal! Enlatado, Portátil con Mascarilla",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/294156/4dc056dc632e5906a09254c4e0398a5ee2838733.XL2.jpg",
+            "valor_oferta": "$20.990",
+            "valor_oferta_plano": 20990,
+            "calificaciones": null
+        },
+        {
+            "id_descuento": "294490",
+            "titulo": "6 Meses de Suscripción a TNT Sports",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/294490/e90088a6b6317aaad59dc024719683494b1a33c1.XL2.jpg",
+            "valor_oferta": "$49.990",
+            "valor_oferta_plano": 49990,
+            "calificaciones": 7.16
+        },
+        {
+            "id_descuento": "296031",
+            "titulo": "Bandeja de madera para tus comidas ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296031/09532f0441c443abebb198a83f32ccec5f9cbf7e.XL2.jpg",
+            "valor_oferta": "$9.990",
+            "valor_oferta_plano": 9990,
+            "calificaciones": 8.47
+        },
+        {
+            "id_descuento": "298750",
+            "titulo": "Set de Cortinas 2 Paños England Cambridge",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/298750/3217655e3c0c3f4b7d371c4a729f0fbc496fdb0c.XL2.jpg",
+            "valor_oferta": "$11.990",
+            "valor_oferta_plano": 11990,
+            "calificaciones": 8.75
+        },
+        {
+            "id_descuento": "297380",
+            "titulo": "Colágeno X-Ray formato a eleccion ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/297380/43b75e0c00d0b0d15c1e7d22c94b19ac4a6e1c93.XL2.jpg",
+            "valor_oferta": "$22.990",
+            "valor_oferta_plano": 22990,
+            "calificaciones": 8.43
+        },
+        {
+            "id_descuento": "299326",
+            "titulo": "Pack 48 Rollos Premium Tork 20 Mtrs",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/299326/9e0d045b09158ff163c8a769baf3c97825a43899.XL2.jpg",
+            "valor_oferta": "$6.990",
+            "valor_oferta_plano": 6990,
+            "calificaciones": 8.31
+        },
+        {
+            "id_descuento": "299788",
+            "titulo": "25 KG de Arena Sanitaria para Gatos",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/299788/ca3e38e595342e8447fa3a167bf77c519fa2cb97.XL2.jpg",
+            "valor_oferta": "$12.390",
+            "valor_oferta_plano": 12390,
+            "calificaciones": 7.51
+        },
+        {
+            "id_descuento": "299941",
+            "titulo": "Primera Capa Pantalón y Polera Hombre y Mujer Marca Mora",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/299941/ef68c8f05bc68f19e55693016bc61b29828ce986.XL2.jpg",
+            "valor_oferta": "$11.990",
+            "valor_oferta_plano": 11990,
+            "calificaciones": 6.39
+        },
+        {
+            "id_descuento": "296292",
+            "titulo": "Pack de 36 Preservativos Durex Clasico",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296292/f93da967ed9a66c8151d07a382ca4bd8c1d62120.XL2.jpg",
+            "valor_oferta": "$12.090",
+            "valor_oferta_plano": 12090,
+            "calificaciones": 8.45
+        },
+        {
+            "id_descuento": "300407",
+            "titulo": "Balón de resistencia y equilibrio Bosu, color azul ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/300407/1a8188909160a2d5300ba6d4271cc646859b2cb8.XL2.jpg",
+            "valor_oferta": "$29.000",
+            "valor_oferta_plano": 29000,
+            "calificaciones": null
+        },
+        {
+            "id_descuento": "296194",
+            "titulo": "Pack 2 Tarros de Nescafé Tradición de 400 g",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296194/7e2f258a69707e2fdca1e788fe982bc61c1ed2b5.XL2.jpg",
+            "valor_oferta": "$13.090",
+            "valor_oferta_plano": 13090,
+            "calificaciones": 8.77
+        },
+        {
+            "id_descuento": "291747",
+            "titulo": "Maleta F Montana Negro Small 20\"",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/291747/7cadb3f13c2b8b87bfbcd5f170c8edfb73d4b027.XL2.jpg",
+            "valor_oferta": "$29.970",
+            "valor_oferta_plano": 29970,
+            "calificaciones": null
+        },
+        {
+            "id_descuento": "299342",
+            "titulo": "Pantuflas Calienta Pies Thermica Modelos a elección",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/299342/53903a3a24556a9b41b685baf474826292fc6f47.XL2.jpg",
+            "valor_oferta": "$4.990",
+            "valor_oferta_plano": 4990,
+            "calificaciones": 6.63
+        },
+        {
+            "id_descuento": "296340",
+            "titulo": "¡Descansa como se debe! Hamaca Tejida Tricolor",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296340/88580912ba89347912fe9c2c90b00df2c9b025a5.XL2.jpg",
+            "valor_oferta": "$7.990",
+            "valor_oferta_plano": 7990,
+            "calificaciones": 8.4
+        },
+        {
+            "id_descuento": "295897",
+            "titulo": "Luces Led Multicolor de 5 Metros + Control Remoto  ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/295897/4a81b0f4808fc334222b41e447557ec71063a7dc.XL2.jpg",
+            "valor_oferta": "$7.990",
+            "valor_oferta_plano": 7990,
+            "calificaciones": 7.02
+        },
+        {
+            "id_descuento": "296201",
+            "titulo": "Pack 24 o 12 Latas de Atún Angelmo en Lomito a Elección ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296201/0af94b95b51f6e5097771a9e48be477eff79bc1f.XL2.jpg",
+            "valor_oferta": "$11.990",
+            "valor_oferta_plano": 11990,
+            "calificaciones": 8.48
+        },
+        {
+            "id_descuento": "297362",
+            "titulo": "Pack 16 Capsulas Café o Té Compatible con Dolce Gusto",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/297362/b8e1029683f1233f3359636e59738df90067ad3d.XL2.jpg",
+            "valor_oferta": "$4.090",
+            "valor_oferta_plano": 4090,
+            "calificaciones": 7.83
+        },
+        {
+            "id_descuento": "293954",
+            "titulo": "Insecticida Gel Cucaracha Blattanex 10 Gr Bayer + Despacho",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/293954/0d55440e468a40ad9b882602258592348cd8da26.XL2.jpg",
+            "valor_oferta": "$7.990",
+            "valor_oferta_plano": 7990,
+            "calificaciones": 8
+        },
+        {
+            "id_descuento": "299942",
+            "titulo": "Beatle Hombre 100% algodón Mora",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/299942/9df6da3616d2d0f996595fe473fb0ec735ada7ec.XL2.jpg",
+            "valor_oferta": "$7.990",
+            "valor_oferta_plano": 7990,
+            "calificaciones": 7.93
+        },
+        {
+            "id_descuento": "297322",
+            "titulo": "Recortador Sensitive Touch Eléctrico Veet",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/297322/a2b756ad542f24ba18b5538175f4681f4f81c218.XL2.jpg",
+            "valor_oferta": "$10.490",
+            "valor_oferta_plano": 10490,
+            "calificaciones": 8.1
+        },
+        {
+            "id_descuento": "296339",
+            "titulo": "Huevo Masturbador Masculino",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296339/07b4e301ab9758cdcad5103b0039f3ae79e9d318.XL2.jpg",
+            "valor_oferta": "$2.990",
+            "valor_oferta_plano": 2990,
+            "calificaciones": 7.39
+        },
+        {
+            "id_descuento": "300126",
+            "titulo": "Colágeno Hidrolizado en Polvo FNL",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/300126/b92fc9727e84943419ef1013153a00b2650a35ca.XL2.jpg",
+            "valor_oferta": "$9.500",
+            "valor_oferta_plano": 9500,
+            "calificaciones": 8.93
+        },
+        {
+            "id_descuento": "294351",
+            "titulo": "Caja Mixta de Carnes y Pescados + Despacho",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/294351/0e15138da7de08f0183dd303a6ac81a03f23db28.XL2.jpg",
+            "valor_oferta": "$33.100",
+            "valor_oferta_plano": 33100,
+            "calificaciones": 6
+        },
+        {
+            "id_descuento": "296374",
+            "titulo": "Organizador de Escobas y Útiles de Aseo",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296374/83d1f6304d11ad19e975b7b0e53f4e0f23da82e1.XL2.jpg",
+            "valor_oferta": "$3.990",
+            "valor_oferta_plano": 3990,
+            "calificaciones": 8.43
+        },
+        {
+            "id_descuento": "293592",
+            "titulo": "Silla Gamer Profesional Warzo Color a elección",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/293592/7af52d4403fa9ac6c4b62d89d9e109498dffed85.XL2.jpg",
+            "valor_oferta": "$144.990",
+            "valor_oferta_plano": 144990,
+            "calificaciones": null
+        },
+        {
+            "id_descuento": "293042",
+            "titulo": "¡Kit 4 en 1! Kronos Teclado + Mouse + Audífono + Envío",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/293042/3092fad92ba715154a9f8c21375af24da8d1a586.XL2.jpg",
+            "valor_oferta": "$39.990",
+            "valor_oferta_plano": 39990,
+            "calificaciones": 7.42
+        },
+        {
+            "id_descuento": "294062",
+            "titulo": "Cremas y Tratamientos faciales Fenomen C a elección",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/294062/7f3ee7c6889213a679abd91b7020d8fe38ff0559.XL2.jpg",
+            "valor_oferta": "$9.990",
+            "valor_oferta_plano": 9990,
+            "calificaciones": 7.5
+        },
+        {
+            "id_descuento": "297181",
+            "titulo": "Caja de 50 Mascarillas Emumed 3 Pliegues",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/297181/8322bbac95fc482ce52b6eb15e90877ff715ee05.XL2.jpg",
+            "valor_oferta": "$4.090",
+            "valor_oferta_plano": 4090,
+            "calificaciones": 7.21
+        },
+        {
+            "id_descuento": "284403",
+            "titulo": "Baja de Peso! Pack de 2 Frascos Magra Z Nutrapharm",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/284403/67a879fba72476619420a85bf861df2f07e048bb.XL2.jpg",
+            "valor_oferta": "$10.990",
+            "valor_oferta_plano": 10990,
+            "calificaciones": 7.3
+        },
+        {
+            "id_descuento": "295871",
+            "titulo": "Sarten Antiadherente 20 cm Clasica Mx ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/295871/5ab89a7348876fb791ece6b30f4f116826aee869.XL2.jpg",
+            "valor_oferta": "$3.990",
+            "valor_oferta_plano": 3990,
+            "calificaciones": null
+        },
+        {
+            "id_descuento": "296070",
+            "titulo": "Cama para Mascotas Modelo Plátano, Tamaño a Elección ",
+            "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/296070/5a5949a5dc6a649dba52c7da20467862ed2a3e04.XL2.jpg",
+            "valor_oferta": "$7.990",
+            "valor_oferta_plano": 7990,
+            "calificaciones": 7.58
+        }
+    ],
+    "pedidos": []
+}

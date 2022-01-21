@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Proyecto de Entrevista para Desarrollador FullStack
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Instalación
+1. Descarga el repositorio en tu computadora local y dirígete a su ruta.
+2. Abre una consola e instala las dependencias del sistema
+```sh
+npm istall
+```
+3. Inicia el proyecto en React. Se abrirá una pestaña en tu computador utilizando el puerto 3000
+```sh
+npm start
+```
+4. En una consola aparte inicia la API Rest mediante JSON Server
+```sh
+json-server --watch db.json --port 3001
+```
+5. ¡Listo! Ya puedes navegar por el mini carro de compras.
 
-## Available Scripts
+Nota: Se asume que el lector tiene un conocimiento adecuado para seguir los pasos anteriores, así mismo cuenta con el dispositivo y las herramientas necesarias para ejecutar la App.
 
-In the project directory, you can run:
 
-### `npm start`
+## Explicación del proyecto
+Se solicita hacer un mini carro de compras utilizando los métodos típicos tipo CRUD.
+Tecnologías a utilizar:
+- [React](https://reactjs.org/docs/create-a-new-react-app.html)
+- [JSON Server](https://github.com/typicode/json-server)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Se solicita hacer crear una aplicación en React y levantar una API Rest con Json Server, consumiendo un objeto tipo JSON desde la siguiente URL: [Cuponatic Testing Data](https://s3.amazonaws.com/cuponassets.cuponatic-latam.com/uploads/dev/db.json)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+El proyecto debe contar con 2 páginas con URLs distintas y utilizando react-router-dom.
+La primera página debe exponer los productos y la capacidad de agregarlos al carrito de compras.
+La segunda página realiza un resumen de la compra
 
-### `npm test`
+Se solicita la manipulación de los productos con objeto de poder ordenarlos por 4 criterios:
+- Título
+- Menor precio
+- Mayor precio
+- Mejor clasificación
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Se solicita que los productos agregados al carro de compras sean persistentes, haciendo uso de LocalStorage
 
-### `npm run build`
+Se solicita hacer y validar un formulario de información de usuario con los campos:
+- Nombre
+- Email
+- Teléfono
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Por último se solicita la capacidad de poder enviar un Objeto por método POST a la API como se muestra a continuación:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+{
+    id: "1234567890%CarlosRojas%carlos@gmail.com",
+    nombre: "Carlos Rojas",
+    email: "carlos@gmail.com",
+    teléfono: 912345678,
+    total_a_pagar: 19900,
+    productos: [
+        {
+          "id_descuento": "299942",
+          "titulo": "Beatle Hombre 100% algodón Mora",
+          "imagen": "https://cuponassets.cuponatic-latam.com/backendCl/uploads/imagenes_descuentos/99942/9df6da3616d2d0f996595fe473fb0ec735ada7ec.XL2.jpg",
+          "valor_oferta": '$7.990',
+          "valor_oferta_plano": 7990,
+          "calificaciones": 7.93,
+          "qty": 1,
+        }
+    ]
+}
+```
+El objeto anterior debe ser persistido en la Base de Datos, esto se logra automáticamente mediante JSON Server.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT
