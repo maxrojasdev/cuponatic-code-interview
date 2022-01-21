@@ -4,7 +4,7 @@
 1. Descarga el repositorio en tu computadora local y dirígete a su ruta.
 2. Abre una consola e instala las dependencias del sistema
 ```sh
-npm istall
+npm install
 ```
 3. Inicia el proyecto en React. Se abrirá una pestaña en tu computador utilizando el puerto 3000
 ```sh
